@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+#text {
+    color: white;
+    opacity: 1;
+    font-size: 70px;
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 2px;
+}
